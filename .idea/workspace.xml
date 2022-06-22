@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b50cc0f-e285-4578-b1bc-d3409d65abb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/CalcController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/CalcEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="5b50cc0f-e285-4578-b1bc-d3409d65abb5" name="Changes" comment="cmt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +40,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Kurumem/IdeaProjects/TomcatTest1"
+    "last_opened_file_path": "C:/Users/Kurumem/Desktop/SpringCalc-master",
+    "spring.configuration.checksum": "29f68f4a1f5b68120444c219858866ec"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -95,7 +84,16 @@
       <option name="presentableId" value="Default" />
       <updated>1655884350739</updated>
       <workItem from="1655884352494" duration="6110000" />
+      <workItem from="1655890730386" duration="228000" />
     </task>
+    <task id="LOCAL-00001" summary="cmt">
+      <created>1655890783610</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655890783611</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,5 +109,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cmt" />
+    <option name="LAST_COMMIT_MESSAGE" value="cmt" />
   </component>
 </project>
